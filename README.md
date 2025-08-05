@@ -1,4 +1,4 @@
-# WebCars
+# Tarefas+
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/SenhorOver/next-tarefas-plus/blob/main/LICENSE)
 
