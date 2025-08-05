@@ -6,9 +6,9 @@
 
 https://next-tarefas-plus.vercel.app/
 
-Tarefas+ é um projeto para organização individual de seus tarefas, utilizando NextJS e seus recursos, como SSR e SSG.
+Tarefas+ é um projeto para organização individual de suas tarefas, utilizando NextJS e seus recursos, como SSR e SSG.
 
-Tarefas+ oference um sistema de Login via Google, e possibilita criar tarefas públicas ou particulares, as tarefas públicas podem ser compartilhadas via Link, e outros usuários podem comentar sua tarefa.
+Tarefas+ oference um sistema de Login via Google, e possibilita criar tarefas públicas ou particulares, as tarefas públicas podem ser compartilhadas via Link, e outros usuários logados podem comentar sua tarefa.
 
 ## Layout web/mobile
 
